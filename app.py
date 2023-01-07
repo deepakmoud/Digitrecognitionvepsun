@@ -18,7 +18,7 @@ html_temp = """
    <div class="" style="background-color:blue;" >
    <div class="clearfix">           
    <div class="col-md-12">
-   <center><p style="font-size:40px;color:white;margin-top:10px;">vepsun Technologies  </p></center> 
+   <center><p style="font-size:40px;color:white;margin-top:10px;">Vepsun Technologies  </p></center> 
    <center><p style="font-size:30px;color:white;margin-top:10px;">“Session on Neural Network ”</p></center> 
    </div>
    </div>
@@ -66,7 +66,7 @@ html_temp = """
    <div class="clearfix">           
    <div class="col-md-12">
    <center><p style="font-size:20px;color:white;margin-top:10px;">Developed by</p></center> 
-   <center><p style="font-size:20px;color:white;margin-top:10px;">Deepak Moudy</p></center> 
+   <center><p style="font-size:20px;color:white;margin-top:10px;">Deepak Moud</p></center> 
    </div>
    </div>
    </div>
