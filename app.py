@@ -18,8 +18,8 @@ html_temp = """
    <div class="" style="background-color:blue;" >
    <div class="clearfix">           
    <div class="col-md-12">
-   <center><p style="font-size:40px;color:white;margin-top:10px;">upGrad
-Building Careers of Tomorrow </p></center> 
+   <center><p style="font-size:50px;color:white;margin-top:10px;">upGrad  </p></center> 
+<center><p style="font-size:40px;color:white;margin-top:10px;"> Building Careers of Tomorrow </p></center> 
    <center><p style="font-size:30px;color:white;margin-top:10px;">“Demo Session on Neural Network ”</p></center> 
    </div>
    </div>
