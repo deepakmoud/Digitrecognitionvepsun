@@ -18,9 +18,9 @@ html_temp = """
    <div class="" style="background-color:blue;" >
    <div class="clearfix">           
    <div class="col-md-12">
-   <center><p style="font-size:50px;color:white;margin-top:10px;">upGrad  </p></center> 
-<center><p style="font-size:40px;color:white;margin-top:10px;"> Building Careers of Tomorrow </p></center> 
-   <center><p style="font-size:30px;color:white;margin-top:10px;">“Demo Session on Neural Network ”</p></center> 
+   <center><p style="font-size:50px;color:white;margin-top:10px;">Poornima Institute of Enginerring & Technology  </p></center> 
+<center><p style="font-size:40px;color:white;margin-top:10px;"> Department of Computer Engineering</p></center> 
+   <center><p style="font-size:30px;color:white;margin-top:10px;">Six Days Faculty development Program on Applications of Neural Network and Machine learning </p></center> 
    </div>
    </div>
    </div>
@@ -60,7 +60,7 @@ if st.button("Predict Digit"):
   st.success('Model has predicted the image is of  {}'.format(result))
 if st.button("About"):
   st.header(" Deepak Moud")
-  st.subheader("Deep Learning Subject Matter Expert")
+  st.subheader("Head, Department of Computer Engineering")
   
 html_temp = """
    <div class="" style="background-color:orange;" >
