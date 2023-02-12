@@ -11,7 +11,7 @@ from werkzeug.utils import secure_filename
 st.set_option('deprecation.showfileUploaderEncoding', False)
 # Loading saved model from Drive.
 from keras.models import load_model
-model = load_model('/content/drive/My Drive/FDP/MNISTANN.h5')
+model = load_model('MNISTANN.h5')
 
 html_temp = """
    <div class="" style="background-color:blue;" >
