@@ -29,7 +29,7 @@ st.title("""
         Digit Recognition
          """
          )
-file= st.file_uploader("Please upload image", type=("jpg", "png"))
+file= st.file_uploader("Please upload image", type=("jpg", "png","jpeg"))
 
 import cv2
 from  PIL import Image, ImageOps
