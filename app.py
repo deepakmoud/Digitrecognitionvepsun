@@ -17,8 +17,8 @@ html_temp = """
    <div class="" style="background-color:blue;" >
    <div class="clearfix">           
    <div class="col-md-12">
-   <center><p style="font-size:40px;color:white;margin-top:10px;">Upgrade  </p></center> 
-   <center><p style="font-size:30px;color:white;margin-top:10px;">“Sesssion on convolutional Neural Network ”</p></center> 
+   <center><p style="font-size:40px;color:white;margin-top:10px;">Hands on Session on ANN  </p></center> 
+   <center><p style="font-size:30px;color:white;margin-top:10px;">Project Deployment </p></center> 
    </div>
    </div>
    </div>
